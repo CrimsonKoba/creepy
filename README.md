@@ -5,6 +5,8 @@
 
 ### Author 
 Yiannis Kakavas <jkakavas__AT__gmail__dot__com>
+Luis Vázquez <luisv@gmx.com>
+
 
 ### Homepage 
 http://www.geocreepy.com
