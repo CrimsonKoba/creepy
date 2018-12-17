@@ -4,8 +4,9 @@
 1.4.1
 
 ### Author 
-Yiannis Kakavas <jkakavas__AT__gmail__dot__com>
-Luis Vázquez <luisv@gmx.com>
+ Yiannis Kakavas <jkakavas__AT__gmail__dot__com>
+ Luis Vázquez <<luisv@gmx.com>>
+
 
 
 ### Homepage 
